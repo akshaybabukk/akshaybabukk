@@ -4,4 +4,4 @@
 <h3>Cybersecurity Projects</h3>
     <pre><h4>Wazuh Home Lab Setup</h4></pre>
 
-     <a href="https://github.com/akshaybabukk/N-Mapper" target="_blank">N Mapper</a>
+<a href="https://github.com/akshaybabukk/N-Mapper" target="_blank">N Mapper</a>
